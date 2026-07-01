@@ -1,0 +1,679 @@
+canonical_identifier: bkk:krp/KR6g0018/v1
+canonical_location: https://kanripo.org/bkk/KR6g0018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 涅槃經疏私記
+  identifiers:
+    alt_id:
+    - X37n0661
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X37/X37n0661.xml
+    old_id: X37n0661
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0018_000.yaml, hash: 'sha256:cbe8df10f69f157ac713cd76d68e79571e13ef612963fc4da8ca7287f89513ce'}
+  - {seq: 1, filename: KR6g0018_001.yaml, hash: 'sha256:ccde6b27fdb232586dcefe90d43f4dd82f70f99338d65e64423de97ece2598ac'}
+  - {seq: 2, filename: KR6g0018_002.yaml, hash: 'sha256:08f7d88edb059e57f569b48e10d7fe21037c99723d5bde9e8aa256e64afcc757'}
+  - {seq: 3, filename: KR6g0018_003.yaml, hash: 'sha256:f4d18f5d56228ea44adad6ba87cb6ff8ffd6719803095e9ebf8a687ec5234233'}
+  - {seq: 4, filename: KR6g0018_004.yaml, hash: 'sha256:1dfaa27db5c5215076e9795245480ac3a08f87dda0d4a5436463dad8461c879a'}
+  - {seq: 5, filename: KR6g0018_005.yaml, hash: 'sha256:b40b3a559f8b680423a36079ea2ed56fd18510b61944ce1ca3076e122b4f1f24'}
+  - {seq: 6, filename: KR6g0018_006.yaml, hash: 'sha256:40cd23acd2bd9ef5bbd2eaebd30b17d524a0d4de807a25c5724033fab0448080'}
+  - {seq: 7, filename: KR6g0018_007.yaml, hash: 'sha256:481aa3db930d8240c98a8a3b0ce3e2387b76ed8b7a1cfd783e0cd83ff26a3ee5'}
+  - {seq: 8, filename: KR6g0018_008.yaml, hash: 'sha256:8587f4ef2eb68f1d346c2c568af5f022f44685b9b726a2f0e5caa1ee6ddf8faa'}
+  - {seq: 9, filename: KR6g0018_009.yaml, hash: 'sha256:296925d077e9a4700557545147be52b3c6bd693b80192c12328ab69b999d3f7a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6g0018_000.markers.yaml, hash: 'sha256:a60f1aa62cd6803340987af7cb80fd1625bfed86d70a147c0229a44c1d51cd34'}
+  - {seq: 1, role: markers, filename: assets/KR6g0018_001.markers.yaml, hash: 'sha256:85627e612305a751b39d2466499e947c784c42c603ec257978a6a4629b0d402e'}
+  - {seq: 2, role: markers, filename: assets/KR6g0018_002.markers.yaml, hash: 'sha256:b7cd4d5984daaffc41c5ee989e9b4c36a5d1807d214507dd331311d7b006a3ee'}
+  - {seq: 3, role: markers, filename: assets/KR6g0018_003.markers.yaml, hash: 'sha256:368b5c91be172c073ef8392f2eda37653b0ea94274749cd817685a8e17334094'}
+  - {seq: 4, role: markers, filename: assets/KR6g0018_004.markers.yaml, hash: 'sha256:28647fb7ff2b80fb42b0f1f19b5ed2e623f65d07d3480920dd89a16fad02441f'}
+  - {seq: 5, role: markers, filename: assets/KR6g0018_005.markers.yaml, hash: 'sha256:84401e7ff6e2966d3648eb26a234e96f5cb27a8ad4e41576cba964fed1499417'}
+  - {seq: 6, role: markers, filename: assets/KR6g0018_006.markers.yaml, hash: 'sha256:35d3bfbd17c53a5c240de183f83b7e3bd4a8e2acbc45dcb12fb055864d06cee4'}
+  - {seq: 7, role: markers, filename: assets/KR6g0018_007.markers.yaml, hash: 'sha256:cb2053feb60a5a4a0a5e15d470253bc8311a33c1d8873177a66586b13ea01181'}
+  - {seq: 8, role: markers, filename: assets/KR6g0018_008.markers.yaml, hash: 'sha256:37ce2aeee7b9ea02f1bd3f91e9d6fc8acda0b9df8858b47f04a42c29e7bb0823'}
+  - {seq: 9, role: markers, filename: assets/KR6g0018_009.markers.yaml, hash: 'sha256:df7887abb6a3a950a6193effcddabda0db276b20e744dc82ad1f813110662307'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6g0018_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0018_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 22986
+  label: 涅槃經疏私記卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0018_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0018_X_001-mulu-2
+    span:
+    - body
+    - 11689
+    - 11689
+  label: 釋純陀品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0018_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 18667
+  label: 涅槃疏私記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0018_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋哀歎品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0018_X_002-mulu-2
+    span:
+    - body
+    - 10058
+    - 10058
+  label: 釋長壽品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 21813
+  label: 涅槃疏私記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋金剛身品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-2
+    span:
+    - body
+    - 3803
+    - 3803
+  label: 釋名字功德品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-3
+    span:
+    - body
+    - 4633
+    - 4633
+  label: 釋四相品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-4
+    span:
+    - body
+    - 4636
+    - 4636
+  label: 上
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-5
+    span:
+    - body
+    - 9405
+    - 9405
+  label: 下
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-6
+    span:
+    - body
+    - 12397
+    - 12397
+  label: 釋四依品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-7
+    span:
+    - body
+    - 19087
+    - 19087
+  label: 釋邪正品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-8
+    span:
+    - body
+    - 20095
+    - 20095
+  label: 釋四諦品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6g0018_X_003-mulu-9
+    span:
+    - body
+    - 21255
+    - 21255
+  label: 釋四倒品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0018_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 22241
+  label: 涅槃疏私記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0018_X_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋如來性品第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0018_X_004-mulu-2
+    span:
+    - body
+    - 8073
+    - 8073
+  label: 釋文字品第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0018_X_004-mulu-3
+    span:
+    - body
+    - 9882
+    - 9882
+  label: 釋鳥喻品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0018_X_004-mulu-4
+    span:
+    - body
+    - 11428
+    - 11428
+  label: 釋月喻品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0018_X_004-mulu-5
+    span:
+    - body
+    - 12065
+    - 12065
+  label: 釋菩薩品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0018_X_004-mulu-6
+    span:
+    - body
+    - 16809
+    - 16809
+  label: 釋大眾問品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6g0018_X_004-mulu-7
+    span:
+    - body
+    - 18608
+    - 18608
+  label: 釋現病品第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0018_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 22501
+  label: 涅槃疏私記卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0018_X_005-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 釋聖行品第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0018_X_005-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 上
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0018_X_005-mulu-3
+    span:
+    - body
+    - 8704
+    - 8704
+  label: 中
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0018_X_005-mulu-4
+    span:
+    - body
+    - 14202
+    - 14202
+  label: 下
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0018_X_005-mulu-5
+    span:
+    - body
+    - 17606
+    - 17606
+  label: 釋梵行品第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6g0018_X_005-mulu-6
+    span:
+    - body
+    - 17612
+    - 17612
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0018_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 25900
+  label: 涅槃經疏記卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0018_X_006-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0018_X_006-mulu-2
+    span:
+    - body
+    - 5853
+    - 5853
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0018_X_006-mulu-3
+    span:
+    - body
+    - 11519
+    - 11519
+  label: 之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0018_X_006-mulu-4
+    span:
+    - body
+    - 13178
+    - 13178
+  label: 之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0018_X_006-mulu-5
+    span:
+    - body
+    - 16438
+    - 16438
+  label: 釋嬰兒行品第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0018_X_006-mulu-6
+    span:
+    - body
+    - 16784
+    - 16784
+  label: 釋德王品第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6g0018_X_006-mulu-7
+    span:
+    - body
+    - 16784
+    - 16784
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 23634
+  label: 涅槃疏私記卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-2
+    span:
+    - body
+    - 1041
+    - 1041
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-3
+    span:
+    - body
+    - 2058
+    - 2058
+  label: 之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-4
+    span:
+    - body
+    - 4501
+    - 4501
+  label: 之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-5
+    span:
+    - body
+    - 8983
+    - 8983
+  label: 之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-6
+    span:
+    - body
+    - 10813
+    - 10813
+  label: 釋師子吼品第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-7
+    span:
+    - body
+    - 10820
+    - 10820
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-8
+    span:
+    - body
+    - 16394
+    - 16394
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6g0018_X_007-mulu-9
+    span:
+    - body
+    - 21445
+    - 21445
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6g0018_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 16745
+  label: 涅槃疏記卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6g0018_X_008-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6g0018_X_008-mulu-2
+    span:
+    - body
+    - 3854
+    - 3854
+  label: 之五
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6g0018_X_008-mulu-3
+    span:
+    - body
+    - 5735
+    - 5735
+  label: 之六
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6g0018_X_008-mulu-4
+    span:
+    - body
+    - 8717
+    - 8717
+  label: 釋迦葉品第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6g0018_X_008-mulu-5
+    span:
+    - body
+    - 8717
+    - 8717
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6g0018_X_008-mulu-6
+    span:
+    - body
+    - 13302
+    - 13302
+  label: 之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6g0018_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 19825
+  label: 涅槃疏私記卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6g0018_X_009-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6g0018_X_009-mulu-2
+    span:
+    - body
+    - 6487
+    - 6487
+  label: 之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6g0018_X_009-mulu-3
+    span:
+    - body
+    - 9684
+    - 9684
+  label: 釋陳如品第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6g0018_X_009-mulu-4
+    span:
+    - body
+    - 9691
+    - 9691
+  label: 之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6g0018_X_009-mulu-5
+    span:
+    - body
+    - 13199
+    - 13199
+  label: 之二
+  type: mulu
+  level: 1
+hash: sha256:9fd9ca5dd46b411e205738b71ffbaab82c5d5267c9da4e9a9bcfa84571305b84
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
